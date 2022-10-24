@@ -1,4 +1,4 @@
-# Cuso-Mainframe-cobol
+# Curso-Mainframe-Cobol
 
 Logica estruturada
 
